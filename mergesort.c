@@ -2,7 +2,6 @@
 // dxv1d@tuta.io
 #include <stdio.h>
 #include <stdlib.h>
-#include "./lib/dxtlib.c" // My own lib 
 
 // Merges two subarrays of arr[].
 // First subarray is arr[l..m]
